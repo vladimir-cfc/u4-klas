@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html lang="bg">
 		<head>
-			<title>Нелина</title>
+			<title>Еленор</title>
 			<meta charset="UTF-8">
 			<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -29,10 +29,10 @@
 			</header>
 			<main>
 				<div class="novini">
-					<img src="images/nelina.jpg" alt="Nelina">
-					<p>Име: Нелина</p>
-					<p>Фамилия: Николова</p>
-					<p>Номер в клас: 17</p>
+					<img src="images/petq.jpg" alt="Petq">
+					<p>Име: Еленор</p>
+					<p>Фамилия: Илиева</p>
+					<p>Номер в клас: 10</p>
 				</div>
 			</main>
 			<footer>Изготвил: Владимир Цолов</footer>
